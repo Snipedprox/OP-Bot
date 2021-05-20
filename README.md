@@ -13,7 +13,7 @@ OP Bot is a bot designed to keep your server safe and active. Its moderation and
 
 
 ## [Table of Contents]()
-ℹ [About Vortex]()  
+ℹ [About OP Bot]()  
 🌀 [Getting Started]()  
 🛡 [Auto-Meme]()  
 🌟 [OP Premium]()  
