@@ -11,7 +11,7 @@
 
 > This bot is used by more than 20,000 Discord users and more than 60 servers.
 
-OP Bot is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org), [Mongoose](https://mongoosejs.com/docs/api.html) and Quick.db by [Tejas Lamb](https://github.com/TajuModding).  
+OP Bot is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org), [Mongoose](https://mongoosejs.com/docs/api.html) and Quick.db by [Tejas Lamba](https://github.com/TajuModding).  
 Feel free to add a star ⭐ to the repository to promote the project!
 
 ## Features
