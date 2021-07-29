@@ -3,7 +3,7 @@
 
 # OP Bot
 
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=OP%20Support)](https://discord.gg/QUeKG73UZ6)
+[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=OP%20Support)](https://discord.gg/6bKScayY2x)
 [![](https://img.shields.io/discord/568120814776614924.svg?logo=discord&colorB=00BFFF&label=OP%20Website)](https://op.thedv.id/)
 [![](https://img.shields.io/badge/discord.js-v12.5.3-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://discord.gg/QUeKG73UZ6)
